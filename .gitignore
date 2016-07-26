@@ -1,0 +1,3 @@
+build/
+vendor/
+.ruby-gemset
